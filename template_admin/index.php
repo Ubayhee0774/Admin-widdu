@@ -1,3 +1,3 @@
 <?php
-include_once("dashbord.html");
+include_once("index.html");
 ?>
